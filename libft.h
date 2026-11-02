@@ -6,7 +6,7 @@
 /*   By: jrosette <jrosette@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/08/31 12:37:03 by jrosette          #+#    #+#             */
-/*   Updated: 2026/11/02 16:11:17 by jrosette         ###   ########.fr       */
+/*   Updated: 2026/11/02 16:41:50 by jrosette         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,6 +16,7 @@
 # include <stdlib.h>
 # include <stdint.h>
 # include <unistd.h>
+# include <stdarg.h>
 
 typedef struct s_list
 {
